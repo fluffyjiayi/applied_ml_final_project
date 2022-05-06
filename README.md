@@ -1,9 +1,5 @@
 # applied_ml_final_project
 
-Jiayi Zhu
-47743999
-May 6th 2022
-
 For the final project, I chose to do option #2 "Create a Publically Available Machine Learning Resource." 
 
 I used the Maternity Health Risk Dataset (https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data) to train a model that can predict an individual's risk of health issues during pregnancy. Risk can either be low, mid, or high and takes into account factors such as age, blood sugar and pressure, and heartrate. The model that is used in my final app is a Random Forest Classsifier that achieved an average 85% accuracy during cross validation. 
